@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="Mitsubishi" ext="PRG" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00&apos; 01 02 03 04</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2">&amp;H &amp;B</Keywords>
+            <Keywords name="Numbers, extras1">a b c d e f A B C D E F</Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2">% &amp; ! #</Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1">- ( ) * , . / : ; ? [ \ ] { } + &lt; = &gt;</Keywords>
+            <Keywords name="Operators2">mod div</Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open">If Function Select While For</Keywords>
+            <Keywords name="Folders in code2, middle">Else ElseIf</Keywords>
+            <Keywords name="Folders in code2, close">EndIf FEnd End Select WEnd Next</Keywords>
+            <Keywords name="Folders in comment, open">openFold</Keywords>
+            <Keywords name="Folders in comment, middle">middleFold</Keywords>
+            <Keywords name="Folders in comment, close">closeFold</Keywords>
+            <Keywords name="Keywords1">C_Date&#x000D;&#x000A;C_Maker&#x000D;&#x000A;C_Mecha&#x000D;&#x000A;C_Prg&#x000D;&#x000A;C_Time&#x000D;&#x000A;C_User&#x000D;&#x000A;J_AmpFbc&#x000D;&#x000A;J_ColMxl&#x000D;&#x000A;J_Curr&#x000D;&#x000A;J_ECurr&#x000D;&#x000A;J_Fbc&#x000D;&#x000A;J_Origin&#x000D;&#x000A;M_Acl&#x000D;&#x000A;M_AclSts&#x000D;&#x000A;M_BrkCq&#x000D;&#x000A;M_BTime&#x000D;&#x000A;M_Cavsts&#x000D;&#x000A;M_CmpDst&#x000D;&#x000A;M_CmpLmt&#x000D;&#x000A;M_ColSts&#x000D;&#x000A;M_Cstp&#x000D;&#x000A;M_Cys&#x000D;&#x000A;M_DAcl&#x000D;&#x000A;M_DIn&#x000D;&#x000A;M_DIn32&#x000D;&#x000A;M_DOut&#x000D;&#x000A;M_DOut32&#x000D;&#x000A;M_Err&#x000D;&#x000A;M_ErrLvl&#x000D;&#x000A;M_Errno&#x000D;&#x000A;M_ESpd&#x000D;&#x000A;M_Exp&#x000D;&#x000A;M_Fbd&#x000D;&#x000A;M_G&#x000D;&#x000A;M_Gps&#x000D;&#x000A;M_HndCq&#x000D;&#x000A;M_In&#x000D;&#x000A;M_In16&#x000D;&#x000A;M_In32&#x000D;&#x000A;M_In8&#x000D;&#x000A;M_Inb&#x000D;&#x000A;M_Inw&#x000D;&#x000A;M_JOvrd&#x000D;&#x000A;M_LdFact&#x000D;&#x000A;M_Line&#x000D;&#x000A;M_Map1&#x000D;&#x000A;M_Map2&#x000D;&#x000A;M_Map3&#x000D;&#x000A;M_Map4&#x000D;&#x000A;M_Map5&#x000D;&#x000A;M_Map6&#x000D;&#x000A;M_Map7&#x000D;&#x000A;M_Map8&#x000D;&#x000A;M_Mode&#x000D;&#x000A;M_Mxt&#x000D;&#x000A;M_NAcl&#x000D;&#x000A;M_NDAcl&#x000D;&#x000A;M_NJovrd&#x000D;&#x000A;M_NOvrd&#x000D;&#x000A;M_NSpd&#x000D;&#x000A;M_NvOpen&#x000D;&#x000A;M_Off&#x000D;&#x000A;M_On&#x000D;&#x000A;M_Open&#x000D;&#x000A;M_OPOvrd&#x000D;&#x000A;M_Out&#x000D;&#x000A;M_Out16&#x000D;&#x000A;M_Out32&#x000D;&#x000A;M_Out8&#x000D;&#x000A;M_Outb&#x000D;&#x000A;M_Outw&#x000D;&#x000A;M_Ovrd&#x000D;&#x000A;M_PI&#x000D;&#x000A;M_Psa&#x000D;&#x000A;M_Ratio&#x000D;&#x000A;M_RDst&#x000D;&#x000A;M_RSpd&#x000D;&#x000A;M_Run&#x000D;&#x000A;M_SetAdl&#x000D;&#x000A;M_SkipCq&#x000D;&#x000A;M_Spd&#x000D;&#x000A;M_SplPno&#x000D;&#x000A;M_SplVar&#x000D;&#x000A;M_Svo&#x000D;&#x000A;M_Timer&#x000D;&#x000A;M_Tool&#x000D;&#x000A;M_Uar&#x000D;&#x000A;M_Uar32&#x000D;&#x000A;M_Wai&#x000D;&#x000A;M_Wupov&#x000D;&#x000A;M_Wuprt&#x000D;&#x000A;M_Wupst&#x000D;&#x000A;P_Base&#x000D;&#x000A;P_CavDir&#x000D;&#x000A;P_ColDir&#x000D;&#x000A;P_CordR&#x000D;&#x000A;P_Curr&#x000D;&#x000A;P_CurrR&#x000D;&#x000A;P_ECord&#x000D;&#x000A;P_Fbc&#x000D;&#x000A;P_GCurr&#x000D;&#x000A;P_Gps1&#x000D;&#x000A;P_Gps2&#x000D;&#x000A;P_Gps3&#x000D;&#x000A;P_Gps4&#x000D;&#x000A;P_Gps5&#x000D;&#x000A;P_Gps6&#x000D;&#x000A;P_Gps7&#x000D;&#x000A;P_Gps8&#x000D;&#x000A;P_NBase&#x000D;&#x000A;P_NTool&#x000D;&#x000A;P_Safe&#x000D;&#x000A;P_Tool&#x000D;&#x000A;P_WkCord&#x000D;&#x000A;P_Zero&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords2">Abs&#x000D;&#x000A;Acos&#x000D;&#x000A;Align&#x000D;&#x000A;Asc&#x000D;&#x000A;Asin&#x000D;&#x000A;Atn&#x000D;&#x000A;Atn2&#x000D;&#x000A;Bin$&#x000D;&#x000A;CalArc&#x000D;&#x000A;Chr$&#x000D;&#x000A;Cint&#x000D;&#x000A;CkSum&#x000D;&#x000A;Cos&#x000D;&#x000A;Cvd&#x000D;&#x000A;Cvi&#x000D;&#x000A;Cvs&#x000D;&#x000A;Deg&#x000D;&#x000A;Dist&#x000D;&#x000A;Exp&#x000D;&#x000A;Fix&#x000D;&#x000A;Fram&#x000D;&#x000A;Hex$&#x000D;&#x000A;Int&#x000D;&#x000A;Inv&#x000D;&#x000A;JtoP&#x000D;&#x000A;Left$&#x000D;&#x000A;Len&#x000D;&#x000A;Ln&#x000D;&#x000A;Log&#x000D;&#x000A;Max&#x000D;&#x000A;Mid$&#x000D;&#x000A;Min&#x000D;&#x000A;Mirror$&#x000D;&#x000A;Mkd$&#x000D;&#x000A;Mki$&#x000D;&#x000A;Mks$&#x000D;&#x000A;PosCq&#x000D;&#x000A;PosMid&#x000D;&#x000A;PtoJ&#x000D;&#x000A;Rad&#x000D;&#x000A;Rdfl1&#x000D;&#x000A;Rdfl2&#x000D;&#x000A;Right$&#x000D;&#x000A;Rnd&#x000D;&#x000A;Setfl1&#x000D;&#x000A;Setfl2&#x000D;&#x000A;SetJnt&#x000D;&#x000A;SetPos&#x000D;&#x000A;Sgn&#x000D;&#x000A;Sin&#x000D;&#x000A;SplECord&#x000D;&#x000A;SplPos&#x000D;&#x000A;SplSpd&#x000D;&#x000A;Sqr&#x000D;&#x000A;Str$&#x000D;&#x000A;StrLwr&#x000D;&#x000A;Strpos&#x000D;&#x000A;StrUpr&#x000D;&#x000A;Tan&#x000D;&#x000A;Val&#x000D;&#x000A;Zone&#x000D;&#x000A;Zone2&#x000D;&#x000A;Zone3&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords3">Accel &#x000D;&#x000A;Act &#x000D;&#x000A;Base &#x000D;&#x000A;CallP &#x000D;&#x000A;CavChk On&#x000D;&#x000A;ChrSrch &#x000D;&#x000A;Close &#x000D;&#x000A;Clr &#x000D;&#x000A;Cmp Jnt&#x000D;&#x000A;Cmp Off&#x000D;&#x000A;Cmp Pos&#x000D;&#x000A;Cmp Tool&#x000D;&#x000A;CmpG &#x000D;&#x000A;Cnt &#x000D;&#x000A;ColChk &#x000D;&#x000A;Com Off&#x000D;&#x000A;Com On&#x000D;&#x000A;Com Stop&#x000D;&#x000A;Const&#x000D;&#x000A;Def Act&#x000D;&#x000A;Def Arch&#x000D;&#x000A;Def Char&#x000D;&#x000A;Def FN&#x000D;&#x000A;Def Gps&#x000D;&#x000A;Def Inte&#x000D;&#x000A;Def IO&#x000D;&#x000A;Def Jnt&#x000D;&#x000A;Def Map&#x000D;&#x000A;Def Plt&#x000D;&#x000A;Def Pos&#x000D;&#x000A;Def Work&#x000D;&#x000A;Dim &#x000D;&#x000A;Dly &#x000D;&#x000A;EBRead &#x000D;&#x000A;EBWrite &#x000D;&#x000A;Else&#x000D;&#x000A;ElseIf&#x000D;&#x000A;EMvc &#x000D;&#x000A;EMvr &#x000D;&#x000A;EMvr2 &#x000D;&#x000A;EMvr3 &#x000D;&#x000A;EMvs &#x000D;&#x000A;EMvSpl &#x000D;&#x000A;End &#x000D;&#x000A;EndIf&#x000D;&#x000A;Error &#x000D;&#x000A;Exit&#x000D;&#x000A;FEnd&#x000D;&#x000A;Fine &#x000D;&#x000A;Fine J&#x000D;&#x000A;Fine P&#x000D;&#x000A;For &#x000D;&#x000A;FPrm &#x000D;&#x000A;Function&#x000D;&#x000A;Get Pos&#x000D;&#x000A;GetM &#x000D;&#x000A;GoSub&#x000D;&#x000A;GoSub &#x000D;&#x000A;GoTo&#x000D;&#x000A;GoTo &#x000D;&#x000A;GpsChk &#x000D;&#x000A;HClose&#x000D;&#x000A;Hlt &#x000D;&#x000A;HOpen &#x000D;&#x000A;If&#x000D;&#x000A;Include&#x000D;&#x000A;Input &#x000D;&#x000A;JOvrd &#x000D;&#x000A;JRC &#x000D;&#x000A;Loadset &#x000D;&#x000A;Mov &#x000D;&#x000A;Mv Tune&#x000D;&#x000A;Mva &#x000D;&#x000A;Mvc &#x000D;&#x000A;Mvr &#x000D;&#x000A;Mvr2 &#x000D;&#x000A;Mvr3 &#x000D;&#x000A;Mvs &#x000D;&#x000A;MvSpl &#x000D;&#x000A;Mxt &#x000D;&#x000A;Next&#x000D;&#x000A;NVClose &#x000D;&#x000A;NVLoad &#x000D;&#x000A;NVOpen &#x000D;&#x000A;NVRun &#x000D;&#x000A;NVTrg &#x000D;&#x000A;Oadl &#x000D;&#x000A;On &#x000D;&#x000A;On Com&#x000D;&#x000A;Open &#x000D;&#x000A;Ovrd &#x000D;&#x000A;Plt &#x000D;&#x000A;Prec &#x000D;&#x000A;Print &#x000D;&#x000A;Priority &#x000D;&#x000A;PrmRead &#x000D;&#x000A;PrmWrite &#x000D;&#x000A;PVSCal &#x000D;&#x000A;RelM &#x000D;&#x000A;Rem &#x000D;&#x000A;Remove &#x000D;&#x000A;Reset Err&#x000D;&#x000A;Save&#x000D;&#x000A;Select Case&#x000D;&#x000A;Servo &#x000D;&#x000A;SetCalFrm &#x000D;&#x000A;Skip &#x000D;&#x000A;Spd &#x000D;&#x000A;SplFWrt &#x000D;&#x000A;SplWrt &#x000D;&#x000A;Static&#x000D;&#x000A;Then&#x000D;&#x000A;Title &#x000D;&#x000A;Tool&#x000D;&#x000A;Torq &#x000D;&#x000A;Wait &#x000D;&#x000A;WEnd&#x000D;&#x000A;While&#x000D;&#x000A;Wth &#x000D;&#x000A;WthIf &#x000D;&#x000A;XClr &#x000D;&#x000A;XLoad &#x000D;&#x000A;XRst &#x000D;&#x000A;XRun &#x000D;&#x000A;XStp &#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords4">#Include&#x000D;&#x000A;And&#x000D;&#x000A;Base&#x000D;&#x000A;Break&#x000D;&#x000A;ByRef&#x000D;&#x000A;CallP&#x000D;&#x000A;Case&#x000D;&#x000A;Cnt&#x000D;&#x000A;Def&#x000D;&#x000A;Default&#x000D;&#x000A;Dim&#x000D;&#x000A;Dly&#x000D;&#x000A;Fine&#x000D;&#x000A;Float&#x000D;&#x000A;Hlt&#x000D;&#x000A;Inte&#x000D;&#x000A;Jnt&#x000D;&#x000A;JOvrd&#x000D;&#x000A;Loadset&#x000D;&#x000A;Mov&#x000D;&#x000A;Mvs&#x000D;&#x000A;OAdl&#x000D;&#x000A;Or&#x000D;&#x000A;Ovrd&#x000D;&#x000A;Pos&#x000D;&#x000A;Return&#x000D;&#x000A;Spd&#x000D;&#x000A;To&#x000D;&#x000A;Wait&#x000D;&#x000A;XClr&#x000D;&#x000A;XLoad&#x000D;&#x000A;XRst&#x000D;&#x000A;XRun&#x000D;&#x000A;XStp&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&quot; 01 02&quot; 03 04 05&#x000A; 06 07 08&#x000D; 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="008000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="FF00FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="0000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="0000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="0000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="800080" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="808080" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="0000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="FF8000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="FF00FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
